@@ -8,4 +8,16 @@ class AppTextStyles {
     fontSize: 50,
     fontWeight: FontWeight.w700,
   );
+
+  static const TextStyle onboardingbigText = TextStyle(
+    fontFamily: 'Inter',
+    fontSize: 36,
+    fontWeight: FontWeight.w700,
+  );
+
+  static const TextStyle onboardingSmallText = TextStyle(
+    fontFamily: 'Inter',
+    fontSize: 14.0,
+    fontWeight: FontWeight.w500,
+  );
 }
